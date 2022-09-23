@@ -15,7 +15,7 @@ TransactIQ is a tool that will assist in converting data from outside systems in
 ## **Client Partner Information**
 
 ### *Company:*
-TransactIQ
+- Company Name
 
 ### *People:*
 - Cam Dowless
