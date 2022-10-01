@@ -7,3 +7,7 @@
 ## Recording of the meeting
 
 **https://www.youtube.com/watch?v=2FkxIde1ozU**
+
+## discoveryMeeting.png
+
+**Picture from the meeting**
