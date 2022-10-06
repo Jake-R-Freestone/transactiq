@@ -23,10 +23,10 @@ Jay
 ## Topics Discussed
 
 * Discussed questions with client for friday meeting.
- * how we would like input/output samples.
- * Question to ask for requirements.
- * Question if we are able to complete backend, would we also do frontend material.
- * What is the actual process to translate data being recieved.
+    * how we would like input/output samples.
+    * Question to ask for requirements.
+    * Question if we are able to complete backend, would we also do frontend material.
+    * What is the actual process to translate data being recieved.
 * Discussed how we are mainly working with backend but unsure.
 
 ## Things Clarified
