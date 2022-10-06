@@ -6,7 +6,7 @@
 
 ## Meeting End Time
 
-2022/10/6/
+2022/10/6/11:47
 
 ## Location/Medium
 
