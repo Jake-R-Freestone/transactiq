@@ -1,4 +1,3 @@
-.net framework
-C# main language
-possibly a little vue.js front-end
-TensorFlow (https://github.com/SciSharp/TensorFlow.NET)
+# TechStack
+ • .NET 6.0 because it is the newest long term support version <br>
+ • postgress version ? because ?
