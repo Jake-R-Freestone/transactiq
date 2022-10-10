@@ -5,9 +5,9 @@
 
 ### Use Cases
 * UC1: Translate data
-  * The purpose of the program itself. We need to take incoming data and rework it to fit into the in-house system.
+  * The purpose of the program itself. We need to take incoming data and suggest where the data goes in an in-house system.
   * Accutech employees would use this.
-  * The program automatically maps data to the correct output.
+  * The program takes in a set of data through file input or direct input. The user presses translate, and another window pops up that suggests where to put the data. The confidence is displayed next to the predicted data place.
   * This satisfies BR1, as it speeds up the process that employees go through that takes way too much time
 * UC2: See data input
   * Displays the data input with data values. This allows the user to see the original unedited data. It also allows direct comparison with the output, to see if the data was mapped correctly.
