@@ -13,7 +13,7 @@
 
 ## Steps
 
-### Settup
+### Setup
 
 1. Clone from the repo
 1. Open the ***TransactIQ*** Solution in Visual Studio
