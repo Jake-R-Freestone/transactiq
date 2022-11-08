@@ -19,11 +19,11 @@
 1. Open the ***TransactIQ*** Solution in Visual Studio
 1. Right click the ***/back-end*** directory and select ***Set as Startup project***
 1. Right click the **/front-end** directory and select ***Open in Terminal***
-1. In the Terminal, run ***'npm install'*** to install the required node packages
+1. In the Terminal, run ```npm install``` to install the required node packages
 
 ### Running the enviroment
 
-1. In the ***/front-end*** directory run ***'npm run serve'*** to run the front end. You can open the front end in a browser ***https://localhost:5002***
+1. In the ***/front-end*** directory run ```npm run serve``` to run the front end. You can open the front end in a browser ***https://localhost:5002***
 1. After selecting the ***/back-end*** as the Startup Project, you can just hit the run button at the top of Visual Studio
 
 
