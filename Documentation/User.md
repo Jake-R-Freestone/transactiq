@@ -2,5 +2,5 @@
 
 ## Steps
 
-1. Select a .xlxs file
+1. Select a .xlsx file
 2. 
