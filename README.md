@@ -27,6 +27,7 @@ TransactIQ is a tool that will assist in converting data from outside systems in
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
+- [Project management](https://github.com/hergin/CapstoneProjectTemplate/projects/1)
 
 ## **Code Repositories**
 
