@@ -15,8 +15,8 @@ In windows command prompt ```cd``` into the front-end directory, type ```npm ins
 ## To _stop_
 Simply close out of both front-end an back-end browser windows
 
-- Troubleshooting:
-    * If trying to run browser for front-end with localhost:5002 and receive 'Cannot connect' error message, go back to front-end directory and type ```npm run server``` to make sure server is running and try again
+## Troubleshooting:
+ If trying to run browser for front-end with localhost:5002 and receive 'Cannot connect' error message, go back to front-end directory and type ```npm run server``` to make sure server is running and try again
 
 # Errors 
 - Errors will be logged into the command prompts running each part of the app
