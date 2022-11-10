@@ -5,8 +5,8 @@
 # How to deploy
 - Deployment has only been tested on windows but could work on linux
 - Put folder with git clone anywhere
-- To start the back-end system navigate to /back-end\bin\Release\net6.0 and start back-end.exe
-- To start the front-end system in windows command prompt cd into the front-end directory, run npm install and npm run server
+- To start the **back-end** system navigate to ***/back-end/bin/Release/net6.0*** and start ***back-end.exe***
+- To start the **front-end** system in windows command prompt ```cd``` into the front-end directory, run ```npm install``` and ```npm run server```
 - Should now be running 
 
 # Errors 
