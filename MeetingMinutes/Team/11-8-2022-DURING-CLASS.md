@@ -1,4 +1,4 @@
-# Team Class Meeting 11/8/2022
+# Class of 11/8/2022
 
 ## Meeting Start Time
 
