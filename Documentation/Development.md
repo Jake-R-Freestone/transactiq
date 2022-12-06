@@ -12,6 +12,7 @@
 * Docker Desktop
 * Yarn
 * C:\Program Files\Git\bin in system path variables
+* Accutech SSO account to log-in
 
 
 
