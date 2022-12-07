@@ -21,14 +21,14 @@
 ### Setup
 
 1. Clone from the repo
-1. Open ***Transact.IQ.sln*** in Visual Studio
+1. Open ***TransactIQ.sln*** in Visual Studio
 1. Right click the ***docker-compose*** and select ***Set as Startup project***
 1. Ensure ***Docker Desktop*** is running
 1. In ***docker-compose.override.yml*** paste in the Client Secret
 1. In ***/src/backend/appsettings.json*** paste in ConnectionString
 1. In ***/src/frontendVue*** directory run ```yarn```
-1. Open ***Powershell** as Admin
-1. In ***/src/devHTTPS/*** directory and run ```.\Create-Certs.ps1```
+1. Open ***Powershell*** as Admin
+1. In ***/src/devHTTPS*** directory run ```.\Create-Certs.ps1```
 1. In ***Visual Studio*** we can now run ***docker-compose*** by hitting the green start button
 
 ## Tech Stack
@@ -89,11 +89,11 @@ TransactIQ
 
 *There are not many config files that should be changed*
 
-* If you need to change the port the app runs on
-  * src/backend/appsettings.json
-    * This is where the ConnectionString is
-  * src/docker-compose.override.yml
-    * This is where the Client Secret is
+
+* src/backend/appsettings.json
+  * This is where the ConnectionString is
+* src/docker-compose.override.yml
+  * This is where the Client Secret is
 
 ## Repo
 
