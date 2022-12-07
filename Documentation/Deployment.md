@@ -5,28 +5,20 @@
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 
-# Replicating via Docker
-1. Open Powershell as Administrator
-1. Navigate to root directory of project
-1. Run ```./Create-TLS-Certs.ps1```
-1. Make sure docker desktop is running
-1. Make sure you're in the Transaction.IQ sln
-1. Right click the docker_compose and set as startup project
-1. Hit the green play button in VS
-
+# To replicate
+1. Open Docker Desktop
+2. Clone poject
+3. Open powershell
+4. navigate to {projectDirectory}/scr/DevHttps
+5. Run Create-Certs.ps1
+6. Run docker-compose  -f "docker-compose.yml" -f "docker-compose.override.yml" -f "obj\Docker\docker-compose.vs.debug.g.yml" -f "docker-compose.vs.debug.yml" -p dockercompose10224266510018579893 --ansi never up -d
 
 # How to deploy
 - Deployment has only been tested on windows but MAY work on linux
 - Put folder with git clone anywhere
 
-## To _start_ the **back-end** system
-Navigate to ***/back-end/bin/Release/net6.0*** and start ***back-end.exe***
-## To _start_ the **front-end** system
-In windows command prompt ```cd``` into the front-end directory, type ```npm install```, then ```npm run server```
-- Both servers should now be ready and running
-
 ## To _stop_
-Simply close out of both front-end an back-end browser windows
+Stop the process on docker desktop
 
 ## Troubleshooting:
  If trying to run browser for front-end with localhost:5002 and receive 'Cannot connect' error message, go back to front-end directory and type ```npm run server``` to make sure server is running and try again
