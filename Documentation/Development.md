@@ -57,7 +57,7 @@ TransactIQ
 │   README.md
 │       
 │
-└─── back-end
+└─── backend
 │   │
 │   └─── Models               # Models represent tables in the database
 │   │   UserModel.cs
@@ -69,8 +69,15 @@ TransactIQ
 │   │     
 │   └─── Migrations           # Database backups and Model states
 |         │...
-│   
-└─── front-end
+│
+|
+└─── backend.Tests            # Tests for the backend
+|
+|
+└─── frontendServer         # proxy server handles SSO and caching
+|
+|
+└─── frontendVue
     │
     └─── src
           │
@@ -82,6 +89,7 @@ TransactIQ
           └─── assets          # Assets such as images
           |  logo.png
           |  ...
+ 
 ```
 
 
