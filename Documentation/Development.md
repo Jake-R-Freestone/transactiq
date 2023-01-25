@@ -31,6 +31,9 @@
 1. In ***/src/devHTTPS*** directory run ```.\Create-Certs.ps1```
 1. In ***Visual Studio*** we can now run ***docker-compose*** by hitting the green start button
 
+## Linting
+
+
 ## Tech Stack
 
 * Docker
