@@ -32,7 +32,9 @@
 1. In ***Visual Studio*** we can now run ***docker-compose*** by hitting the green start button
 
 ## Linting
-ESLint, Prettier, and StyleLint
+Projecting uses ESLint, Prettier, and StyleLint, each with Client provided settings.
+Download each extension in Visual Studio.
+
 
 ## Tech Stack
 
