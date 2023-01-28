@@ -32,7 +32,7 @@
 1. In ***Visual Studio*** we can now run ***docker-compose*** by hitting the green start button
 
 ## Linting
-
+ESLint, Prettier, and StyleLint
 
 ## Tech Stack
 
