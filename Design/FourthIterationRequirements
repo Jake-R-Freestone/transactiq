@@ -1,0 +1,5 @@
+FR1: Start using machine learning to get predictions with a confidence score.
+FR2: Moving saving of files over to user based.
+
+NR1: Make the decision tree model more detailed.
+NR2: Click a bar in the graph to show just those transactions.
