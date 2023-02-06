@@ -32,9 +32,15 @@
 1. In ***Visual Studio*** we can now run ***docker-compose*** by hitting the green start button
 
 ## Linting
+
+### Frontend
+
 Projecting uses ESLint, Prettier, and StyleLint, each with Client provided settings.
 Download each extension in Visual Studio.
 
+### Backend
+
+Backend linting is being done with [SonarLint](https://rules.sonarsource.com/csharp)
 
 ## Tech Stack
 
