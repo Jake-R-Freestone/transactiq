@@ -11,7 +11,7 @@
 ## Chandler Clevenger
 Did not attend.
 ## Robert Duncan
-
+I had a great time at the Symposium! Talking with new people and explaining the project was a lot of fun. I also enjoyed seeing what the other teams in the CS department has spent the last several months working on.
 ## Jacob Freestone
 I think the Student Symposium was an overall great experience. We were able to talk to several people that could look at the project from a different point of view.  Overall the feedback was very positive with a common comment being that our product seems very useful for our client.
 
