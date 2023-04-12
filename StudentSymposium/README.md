@@ -1,6 +1,3 @@
-# Team Picture
-![Symposium](https://user-images.githubusercontent.com/77679910/231326268-35f12536-294c-434b-b54f-15110ff2bca7.jpg)
-
 # Names of the 5 People that listened to our project + Pics
 ## Travis Beckett
 ![Symposium3](https://user-images.githubusercontent.com/77679910/231325942-4e6b3d58-330d-423d-b499-42f27b766056.jpg)
@@ -25,3 +22,6 @@ I think the Student Symposium was an overall great experience. We were able to t
 I enjoyed my time at the Student Symposium. It felt good being able to talk about the project to others that may have been less technical background or at least not in the computer science major/department. We recieved a lot of good feedback and were able to answer all questions with ease. Also got to see a lot of projects that had words in their titles that I definitely did not know how to pronounce. Overrall a good and enjoyable experience.
 ## Robert Mooney
 Did not attend.
+
+# Team Picture
+![Symposium](https://user-images.githubusercontent.com/77679910/231326268-35f12536-294c-434b-b54f-15110ff2bca7.jpg)
