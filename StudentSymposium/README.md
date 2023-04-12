@@ -1,11 +1,17 @@
+# Team Picture
+![Symposium](https://user-images.githubusercontent.com/77679910/231326268-35f12536-294c-434b-b54f-15110ff2bca7.jpg)
+
 # Names of the 5 People that listened to our project + Pics
 ## Travis Beckett
-
+![Symposium3](https://user-images.githubusercontent.com/77679910/231325942-4e6b3d58-330d-423d-b499-42f27b766056.jpg)
 ## Jayden Stevenson
-
+![Symposium2](https://user-images.githubusercontent.com/77679910/231325979-995b991c-cf3e-4577-895a-dcee6f5371ef.jpg)
 ## Jacob Dye
-
+![Symposium5](https://user-images.githubusercontent.com/77679910/231326050-ebe8d38e-bd52-4147-ba3c-b40ff615366b.jpg)
+## John Symanski
+![Symposium6](https://user-images.githubusercontent.com/77679910/231326086-65264560-fd96-4e65-bebd-e627913e9009.jpg)
 ## Conner Um
+![Symposium4](https://user-images.githubusercontent.com/77679910/231326132-6003b592-0e77-4344-b846-4d933b2f4bbf.jpg)
 
 # Team Experiences
 ## Chandler Clevenger
